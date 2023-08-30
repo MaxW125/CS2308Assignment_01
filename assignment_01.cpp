@@ -53,5 +53,6 @@ int main() {
     struct folder arr[10];
     initialize (arr);
     print(arr);
+    cout << "hello " << endl; 
     return 0;
 }
